@@ -66,3 +66,9 @@ nav button{
     font-weight: 400;
     font-size: 18px;
 }
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10;
+}
