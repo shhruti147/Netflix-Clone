@@ -38,3 +38,13 @@ nav button{
     position: relative;
     z-index: 10;
 }
+.hero{
+    height: 70%;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction: column;
+    color: white;
+    position: relative;
+    gap: 23px;
+}
