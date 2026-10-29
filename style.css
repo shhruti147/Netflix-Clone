@@ -48,3 +48,12 @@ nav button{
     position: relative;
     gap: 23px;
 }
+.body{
+    background-color: black;
+}
+
+.hero :nth-child(1){
+    font-weight: 900;
+    font-size: 54px;
+    
+}
