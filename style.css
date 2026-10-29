@@ -28,4 +28,13 @@ nav{
     align-items: center;
     height: 13%;
 }
-
+nav img{
+    position: relative;
+    color: red;
+    width: 40%;
+    z-index: 10;
+}
+nav button{
+    position: relative;
+    z-index: 10;
+}
